@@ -3,6 +3,9 @@ package com.educandoweb.course.entities;
 import java.io.Serializable;
 import java.util.Objects;
 
+
+// REPRESENTA TABELA:
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

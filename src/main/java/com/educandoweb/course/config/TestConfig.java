@@ -10,6 +10,8 @@ import org.springframework.context.annotation.Profile;
 import com.educandoweb.course.entities.User;
 import com.educandoweb.course.repositories.UserRepository;
 
+// POPULA OU POVOA DADOS:
+
 @Configuration
 @Profile("test")
 public class TestConfig implements CommandLineRunner{
